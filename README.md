@@ -47,7 +47,7 @@ Ensure you have the following installed on your local machine:
 Clone the repository and install the required dependencies:
 ```bash
 # Clone the repository
-git clone <YOUR_GITHUB_REPO_LINK_HERE>
+git clone https://github.com/ishani-perera/safora-qa-automation.git
 
 # Navigate into the project directory
 cd safora-qa-automation
